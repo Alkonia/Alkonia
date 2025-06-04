@@ -11,9 +11,9 @@
 - 💻 `Software Developer` with 5 years of professional experience.
 - 👨‍💻 `Team Lead` with solid experience guiding development teams and ensuring successful project delivery.
 - 🔥 Passionate about web technologies, servers, databases, algorithms, and design patterns.
-- 🧰 Tech Stack includes: `HTML`, `CSS`, `React`, `JavaScript`, `TypeScript`, `Express`, `NestJS`, `Next.js`, `Astro`, `SCSS`, `TailwindCSS`.
+- 🧰 Tech Stack includes: `HTML`, `CSS`, `React`, `JavaScript`, `TypeScript`, `Express`, `NestJS`, `Next.js`, `Astro`, `SCSS`, `TailwindCSS`, `Angular`, `Vue`, `Laravel`, `CakePHP`, `Symfony`.
 - 🗄️ Databases & Cloud: `SQL`, `MongoDB`, `AWS`, `Redis`, `Elasticsearch`.
-- 🖥️ Also skilled in backend and other languages: `PHP`, `Java`, `Python`, `C++`, `C#`, `Visual Basic`.
+- 🖥️ Also skilled in backend and other languages: `PHP`, `Java`, `Python`, `C++`, `C#`, `Visual Basic`, `Bash`.
 - 🎯 Focused on writing clean, scalable, and maintainable code applying best practices and design patterns.
 - 🌱 Constantly learning and exploring new tools and frameworks to stay up-to-date.
 - 🚀 Interested in building performant, user-friendly applications with a solid backend foundation.
@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="Visual Basic">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   </div>
 </div>
 
@@ -50,6 +51,11 @@
     <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP">
+    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   </div>
 </div>
 
@@ -62,5 +68,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </div>
 </div>
