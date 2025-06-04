@@ -9,6 +9,7 @@
 </picture>
 
 - 💻 `Software Developer` with 5 years of professional experience.
+- 👨‍💻 `Team Lead` with solid experience guiding development teams and ensuring successful project delivery.
 - 🔥 Passionate about web technologies, servers, databases, algorithms, and design patterns.
 - 🧰 Tech Stack includes: `HTML`, `CSS`, `React`, `JavaScript`, `TypeScript`, `Express`, `NestJS`, `Next.js`, `Astro`, `SCSS`, `TailwindCSS`.
 - 🗄️ Databases & Cloud: `SQL`, `MongoDB`, `AWS`, `Redis`, `Elasticsearch`.
