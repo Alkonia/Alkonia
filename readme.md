@@ -11,7 +11,7 @@
 - 💻 `Software Developer` with 5 years of professional experience.
 - 👨‍💻 `Team Lead` with solid experience guiding development teams and ensuring successful project delivery.
 - 🔥 Passionate about web technologies, servers, databases, algorithms, and design patterns.
-- 🧰 Tech Stack includes: `HTML`, `CSS`, `React`, `JavaScript`, `TypeScript`, `Express`, `NestJS`, `Next.js`, `Astro`, `SCSS`, `TailwindCSS`, `Angular`, `Vue`, `Laravel`, `CakePHP`, `Symfony`.
+- 🧰 Tech Stack includes: `HTML`, `CSS`, `React`, `JavaScript`, `TypeScript`, `Express`, `NestJS`, `Next.js`, `Astro`, `SCSS`, `TailwindCSS`, `Angular`, `Vue`, `Laravel`, `CakePHP`, `Symfony`, `Jest`, `Power BI`.
 - 🗄️ Databases & Cloud: `SQL`, `MongoDB`, `AWS`, `Redis`, `Elasticsearch`.
 - 🖥️ Also skilled in backend and other languages: `PHP`, `Java`, `Python`, `C++`, `C#`, `Visual Basic`, `Bash`.
 - 🎯 Focused on writing clean, scalable, and maintainable code applying best practices and design patterns.
@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP">
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   </div>
 </div>
 
@@ -69,5 +70,6 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
   </div>
 </div>
