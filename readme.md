@@ -8,6 +8,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
+- 👨‍💻 My professional GitHub profile: [github.com/jsf23](https://github.com/jsf23)
 - 💻 `Software Developer` with 5 years of professional experience.
 - 👨‍💻 `Team Lead` with solid experience guiding development teams and ensuring successful project delivery.
 - 🔥 Passionate about web technologies, servers, databases, algorithms, and design patterns.
